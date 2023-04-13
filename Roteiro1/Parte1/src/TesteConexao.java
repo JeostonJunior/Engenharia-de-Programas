@@ -1,5 +1,5 @@
-public class TesteConexao {
 
+public class TesteConexao {
     public static void main(String[] args) {
         ServicoQuarto quarto = new ServicoQuarto();
         quarto.verificarQuarto();

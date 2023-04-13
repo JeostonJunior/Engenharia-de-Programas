@@ -1,9 +1,8 @@
 public class RelatorioReserva {
-
-    private MysqlConnection connection;
+    private OracleConnection connection;
 
     public RelatorioReserva() {
-        this.connection = new MysqlConnection();
+        this.connection = new OracleConnection();
     }
 
     public void gerarRelatorio() {

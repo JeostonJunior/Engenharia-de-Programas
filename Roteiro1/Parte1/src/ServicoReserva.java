@@ -1,5 +1,5 @@
-public class ServicoReserva {
 
+public class ServicoReserva {
     private MysqlConnection connection;
 
     public ServicoReserva() {
